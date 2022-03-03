@@ -1,4 +1,10 @@
 ### Hi there 👋
+There are only three things I want to do this year.
+1. use Englist better
+2. do algorithm exercise
+3. reading and writing
+
+
 
 <!--
 **hi-Ernest/hi-Ernest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
