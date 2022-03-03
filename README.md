@@ -1,7 +1,7 @@
 There are only three things I want to do this year.
-1. use Englist better
-2. do algorithm exercise
-3. reading and writing
+1. Use English for daily work
+2. Do algorithm exercise for three hundred
+3. Reading and writing for twenty book
 
 
 
