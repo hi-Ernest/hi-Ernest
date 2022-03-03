@@ -1,7 +1,8 @@
-There are only three things I want to do this year.
+There are only four things I want to do this year.
 1. Use English for daily work
 2. Do algorithm exercise for three hundred
 3. Reading and writing for twenty book
+4. Become open source project contributor
 
 
 
